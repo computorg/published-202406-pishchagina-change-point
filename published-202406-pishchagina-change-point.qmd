@@ -4,7 +4,7 @@ author:
   - name: Liudmila Pishchagina
     corresponding: true
     email: liudmila.pishchagina@univ-evry.fr
-    url: https://github.com/lpishchagina    
+    url: https://github.com/lpishchagina
     affiliations:
       - name: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire de Mathématiques et Modélisation d'Évry, France
   - name: Guillem Rigaill
@@ -27,8 +27,6 @@ citation:
   type: article-journal
   container-title: "Computo"
   doi: "10.57750/9vvx-eq57"
-  url: https://computo.sfds.asso.fr/published-202406-pishchagina-change-point/
-  pdf-url: https://computo.sfds.asso.fr/published-202406-pishchagina-change-point/published-202406-pishchagina-change-point.pdf
   publisher: "French Statistical Society"
   issn: "2824-7795"
 bibliography: references.bib
