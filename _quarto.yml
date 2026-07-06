@@ -1,2 +1,6 @@
 project:
   title: "computo_pishchagina_changepoints"
+  render:
+    - main.qmd
+    - README.qmd
+status: published
