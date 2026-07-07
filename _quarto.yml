@@ -34,5 +34,9 @@ citation:
   publisher: "French Statistical Society"
   issn: "2824-7795"
   url: "https://computo-journal.org/published-202406-pishchagina-change-point/"
+related-identifiers:
+  - relation: IsVersionOf
+    type: arXiv
+    identifier: "2306.09555"
 github-user: computorg
 repo: "published-202406-pishchagina-change-point"
