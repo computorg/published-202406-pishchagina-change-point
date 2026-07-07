@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: If you use or cite this article, please use the metadata provided in 'preferred-citation'.
+title: Geometric-Based Pruning Rules for Change Point Detection in Multiple Independent
+  Time Series
+authors:
+- family-names: Pishchagina
+  given-names: Liudmila
+  affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+    de Mathématiques et Modélisation d'Évry, France
+- family-names: Rigaill
+  given-names: Guillem
+  orcid: https://orcid.org/0000-0002-7176-7511
+  affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+    de Mathématiques et Modélisation d'Évry, France; Université Paris-Saclay, CNRS,
+    INRAE, Université d'Évry-Val-d'Essonne, Institute of Plant Sciences Paris-Saclay
+    (IPS2), Orsay, France
+- family-names: Runge
+  given-names: Vincent
+  orcid: https://orcid.org/0000-0002-4857-1799
+  affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+    de Mathématiques et Modélisation d'Évry, France
+url: https://computo-journal.org/published-202406-pishchagina-change-point/
+preferred-citation:
+  type: article
+  title: Geometric-Based Pruning Rules for Change Point Detection in Multiple Independent
+    Time Series
+  authors:
+  - family-names: Pishchagina
+    given-names: Liudmila
+    affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+      de Mathématiques et Modélisation d'Évry, France
+  - family-names: Rigaill
+    given-names: Guillem
+    orcid: https://orcid.org/0000-0002-7176-7511
+    affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+      de Mathématiques et Modélisation d'Évry, France; Université Paris-Saclay, CNRS,
+      INRAE, Université d'Évry-Val-d'Essonne, Institute of Plant Sciences Paris-Saclay
+      (IPS2), Orsay, France
+  - family-names: Runge
+    given-names: Vincent
+    orcid: https://orcid.org/0000-0002-4857-1799
+    affiliation: Université Paris-Saclay, CNRS, Université d'Évry-Val-d'Essonne, Laboratoire
+      de Mathématiques et Modélisation d'Évry, France
+  journal: Computo
+  issn: 2824-7795
+  url: https://computo-journal.org/published-202406-pishchagina-change-point/
+  publisher:
+    name: French Statistical Society
+  doi: 10.57750/9vvx-eq57
+  year: 2024
+doi: 10.57750/9vvx-eq57
+date-released: '2024-06-01'
